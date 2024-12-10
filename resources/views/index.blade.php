@@ -12,6 +12,8 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" 
+  crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <title>My Portofolio</title>
 
@@ -41,21 +43,9 @@
         <div class="container-fluid">
           <div class="contact_link-container">
             <a href="" class="contact_link1">
-              <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <i class="fa-solid fa-eye"></i>
               <span>
                 Fazrie Reisky Saputra
-              </span>
-            </a>
-            <a href="" class="contact_link2">
-              <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>
-                Call : +628-5776-0230
-              </span>
-            </a>
-            <a href="" class="contact_link3">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>
-                Skyfazreee@gmail.com
               </span>
             </a>
           </div>
@@ -110,7 +100,7 @@
                     Welcome!, this is my Portfolio, I am Fazrie Riesky Saputra I am a web developer with a beautiful view and user-friendly website, let's explore my website, again this is my portfolio
                     </p>
                     <div class="btn-box">
-                      <a href="" class="btn-1"> Read more </a>
+                      <a href="{{ url('/about') }}" class="btn-1"> Read more </a>
                     </div>
                   </div>
                 </div>
@@ -198,10 +188,11 @@
               </h2>
             </div>
             <p>
-            I am a student of SMK Wikrama Bogor, I am a front-end, and I am the first child of two siblings, I was born August 28, 2007, and my zodiac is virgo. my hobby is an afternoon walk to see the sky that is very beautiful like her, I like listening to music, and the last hobby is to keep myself busy with whatever it is. I am a paskib from PWKM and Purna Eternal's management. I live in the rainy city "Bogor".
+              I am a front-end developer currently studying at SMK Wikrama Bogor. As a responsible and disciplined student, I am committed to continuous learning and professional growth, especially in the field of front-end development. Born in 2007 and residing in Bogor, I am eager to contribute 
+              my skills and creativity through the internship program while gaining valuable experience in the industry.
             </p>
             <div class="btn-box">
-              <a href="">
+              <a href="{{ url('/about') }}">
                 Read More
               </a>
             </div>
@@ -304,23 +295,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/png_20240219_105404_0000.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Sertifikat Paskib Purna 
-              </h5>
-              <h6 class="">
-                Utama 2
-              </h6>
+              <img src="" alt="">
             </div>
           </div>
         </div>
       </div>
-      <div class="btn-box">
-        <a href="">
-          View All
-        </a>
       </div>
     </div>
   </section>
@@ -380,7 +359,7 @@
         </div>
       </div>
       <div class="btn-box">
-        <a href="">
+        <a href="https://github.com/Fazriesky">
           View All
         </a>
       </div>
@@ -446,7 +425,7 @@ Thanks you all
             <a href="" class="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Ig : Fazreeeeeeeeeee
+                Ig : _fzriesky
               </span>
             </a>
             <a href="" class="">
@@ -458,7 +437,7 @@ Thanks you all
             <a href="" class="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Skyfazreee@gmail.com
+                fazrierieskys@gmail.com
               </span>
             </a>
           </div>

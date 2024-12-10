@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 
-  <title>Guarder</title>
+  <title>My Portofolio</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -55,7 +55,7 @@
             <a href="" class="contact_link3">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Skyfazreee@gmail.com
+                fazrierieskys@gmail.com
               </span>
             </a>
           </div>
@@ -197,7 +197,7 @@
             <a href="" class="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Lorem ipsum dolor sit amet,
+                fazrierieskys@gmail.com
               </span>
             </a>
             <a href="" class="">
@@ -209,7 +209,7 @@
             <a href="" class="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Skyfazreee@gmail.com
+                Ig : _fzriesky
               </span>
             </a>
           </div>

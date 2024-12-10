@@ -21,6 +21,8 @@
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
 
+  {{-- font awesome --}}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" 
   <!-- Custom styles for this template -->
   <link href="css/style.css" rel="stylesheet" />
   <!-- responsive style -->
@@ -32,7 +34,7 @@
     <!-- header section strats -->
     <div class="hero_bg_box">
       <div class="img-box">
-        <img src="images/header.jpg" alt="">
+        <img src="images/" alt="">
       </div>
     </div>
 
@@ -44,18 +46,6 @@
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
                 Fazrie Riesky Saputra
-              </span>
-            </a>
-            <a href="" class="contact_link2">
-              <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>
-                Call : +628-5776-0230
-              </span>
-            </a>
-            <a href="" class="contact_link3">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>
-                Skyfazreee@gmail.com
               </span>
             </a>
           </div>
@@ -101,7 +91,7 @@
         <div class="col-md-6 px-0">
           <div class="img_container">
             <div class="img-box">
-              <img src="images/Fazrie_juara.jpeg" alt="" />
+              <img src="images/juara_rgs.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -113,7 +103,8 @@
               </h2>
             </div>
             <p>
-            I am a student of SMK Wikrama Bogor, I am a front-end, and I am the first child of two siblings, I was born August 28, 2007, and my zodiac is virgo. my hobby is an afternoon walk to see the sky that is very beautiful like her, I like listening to music, and the last hobby is to keep myself busy with whatever it is. I am a paskib from PWKM and Purna Eternal's management. I live in the rainy city "Bogor".
+              I am a front-end developer currently studying at SMK Wikrama Bogor. As a responsible and disciplined student, I am committed to continuous learning and professional growth, especially in the field of front-end development. Born in 2007 and residing in Bogor, I am eager to contribute 
+              my skills and creativity through the internship program while gaining valuable experience in the industry.
             </p>
             <div class="btn-box">
               <a href="">
@@ -183,7 +174,7 @@
             <a href="" class="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Ig : Fazreeeeeeeeeee
+                Ig : _fzriesky
               </span>
             </a>
             <a href="" class="">
@@ -195,7 +186,7 @@
             <a href="" class="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Skyfazreee@gmail.com
+                fazrierieskys@gmail.com
               </span>
             </a>
           </div>
