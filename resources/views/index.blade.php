@@ -315,11 +315,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/Screenshot 2024-05-25 104352.png" alt="">
+              <img src="images/project Apotik.png" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Project Kasir
+                Project Apotik
               </h5>
               <h6 class="">
                 
@@ -345,11 +345,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/Screenshot 2024-05-25 110653.png" alt="">
+              <img src="images/Project Data Guru.png" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Project Bahan Bakar
+                Project Data Guru
               </h5>
               <h6 class="">
                 <!-- Utama 2 -->
